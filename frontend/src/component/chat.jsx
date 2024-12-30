@@ -63,7 +63,7 @@ function chat(){
                          <Typography id={index} className=" font-bold" variant="h5" >{msg.value}   </Typography>
                          <Button id={index} onClick={()=>delate(index)}><button>delate</button></Button>
                        </div>
-                       thank you
+                       
                       })}
                 </div>
                 <div className=" flex  my-2">
